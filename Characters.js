@@ -1,1 +1,1 @@
-var monkey, crocodile, lion;
+var monkey, crocodile, lion, elephant;
